@@ -20,5 +20,5 @@ The webpage includes the following:
 ## How to access the Repository?
 Navigate to this link: https://github.com/SJohnRose/Week1-Challenge to view the Project repository.
 
-## How to view the website?
+
 
