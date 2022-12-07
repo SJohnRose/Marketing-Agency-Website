@@ -1,9 +1,9 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Marketing Agency Website: Code Refactor
 
 ## Goal
 
 ```
-A website for a marketing agency that follows accessibility standards and is optimised for search engines
+A website for a marketing agency that follows accessibility standards and is optimised for search engine has been created by refactoring existing code. 
 ```
 
 ## Description
