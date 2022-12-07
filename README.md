@@ -1,9 +1,9 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Marketing Agency Website: Code Refactor
 
 ## Goal
 
 ```
-A website for a marketing agency that follows accessibility standards and is optimised for search engines
+A website for a marketing agency that follows accessibility standards and is optimised for search engine has been created by refactoring existing code. 
 ```
 
 ## Description
@@ -16,9 +16,12 @@ The webpage includes the following:
 * heading attributes that fall in sequential order
 * a concise, descriptive title
 ```
+## Appearance
+The website looks like this:
+![Screenshot](https://user-images.githubusercontent.com/115912745/206152569-f47e8661-9e33-43cf-a2d4-8eddec55e37e.jpeg)
 
 ## How to access the Repository?
-Navigate to this link: https://github.com/SJohnRose/Week1-Challenge to view the Project repository.
+Navigate to this link: https://github.com/SJohnRose/Marketing-Agency-Website to view the Project repository.
 
 
 
